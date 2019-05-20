@@ -1,0 +1,10 @@
+- name: Email
+  url: 'mailto:yosrjouini+web@gmail.com'
+- name: GitHub
+  url: 'https://github.com/yosrjouini/'
+- name: Twitter
+  url: 'https://twitter.com/thisisyosr/'
+- name: Resume
+  url: './resume/'
+- name: Blog
+  url: 'https://medium.com/yosrjouini'

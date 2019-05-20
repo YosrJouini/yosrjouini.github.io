@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yosrjouini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yosrjouini.github.io
+  * I am yosrjouini (https://keybase.io/yosrjouini) on keybase.
+  * I have a public key ASBpdy3547wOPE9iOIDHlGgw_gG6vrW8z__YTxsq_qEtygo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012069772df9e3bc0e3c4f623880c7946830fe01babeb5bccfffd84f1b2afea12dca0a",
+      "host": "keybase.io",
+      "kid": "012069772df9e3bc0e3c4f623880c7946830fe01babeb5bccfffd84f1b2afea12dca0a",
+      "uid": "fe0216434c9b9a67a0f28fd701746719",
+      "username": "yosrjouini"
+    },
+    "merkle_root": {
+      "ctime": 1558319980,
+      "hash": "1c4cbaee573db1f9af43957bbdeb6c8900d901ecb81c780281650af9aab6c520263275d6648da14fc188305703233bfa5cdd643bf4310af6c2614936038d404f",
+      "hash_meta": "ebbab1e4a316a608140efe51b0bbf9ffa587707d6936f207ec3d6df9c75ee710",
+      "seqno": 5406764
+    },
+    "service": {
+      "entropy": "E/TQ+Gq3lQjHK86xT6ciOblA",
+      "hostname": "yosrjouini.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558319997,
+  "expire_in": 504576000,
+  "prev": "dcce894953d25d35f6715ec375c3967f1d9053f5a11f8c27f589f6ba6398054d",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaXct+eO8DjxPYjiAx5RoMP4Bur61vM//2E8bKv6hLcoKp3BheWxvYWTESpcCBMQg3M6JSVPSXTX2cV7DdcOWfx2QU/WhH4wn9Yn2umOYBU3EIHZqkqIcKmkLm0gI3V1+kv4vHTZAzL6C602XZvYSouVAAgHCo3NpZ8RApbP2R1tLliYzhEb8Bec+t8GoAvv56StdMsiuWsQIulDz2OWwtzdi7FHrrRIgTeEyOATinA3eDaTHVV1k3J6WDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICVAo7c28J7zTq4vDJ1ZeWz7Oeo6ollHSqzQchqUNADYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yosrjouini
+
+==================================================================

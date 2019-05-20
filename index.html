@@ -1,0 +1,59 @@
+---
+---
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <!-- Meta tags -->
+        <title>Yosr Jouini</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="author" content="Yosr Jouini">
+        <meta name="description" content="Yosr Jouini's personal profile and contact information.">
+
+        <!-- Fonts and CSS - Trying out [Pure](purecss.io)  -->
+        <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/base-min.css">
+        <link type="text/css" rel="stylesheet" href="css/pages/index.css" media="screen"/>
+
+        <!-- Open Graph -->
+        <meta property="og:title" content="Yosr Jouini" />
+        <meta property="og:type" content="profile" />
+        <meta property="og:url" content="https://yosrjouini.github.io/" />
+        <meta property="og:image" content="https://yosrjouini.github.io/rsc/img/YosrJouini.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="1024" />
+        <meta property="og:image:height" content="1024" />
+        <meta property="og:image:alt" content="face" />
+
+        <!-- Schema.org -->
+        <script type='application/ld+json'>
+        {
+          "@context": "http://www.schema.org",
+          "@type": "person",
+          "name": "Yosr Jouini",
+          "url": "https://yosrjouini.github.io",
+          "email": "yosrjouini@gmail.com",
+          "image": "https://yosrjouini.github.io/rsc/img/YosrJouini.jpg",
+         ,
+          "sameAs": [
+            "https://github.com/YosrJouini",
+            "https://www.twitter.com/thisisyosr",
+            "https://www.linkedin.com/in/yosrjouini"
+          ]
+        }
+        </script>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="name-box"><h1 class="name"><span class="h2v">Yosr</span> <span class="h2v">Jouini</span></h1></div>
+            <div class="link-group">
+                {% for page in site.data.pages %}
+                    <a class="link h2v" href="{{ page.url }}">{{ page.name }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.js"></script>
+        <script src="./js/boxes.js"></script>
+    </body>
+</html>
+

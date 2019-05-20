@@ -1,0 +1,9 @@
+title: Yosr Jouini
+email: yosrjouini@gmail.com
+description: >
+    Yosr Jouini's personal website.
+baseurl: ""
+url: "https://yosrjouini.github.io" # the base hostname & protocol for your site
+github_username: yosrjouini
+
+markdown: kramdown
